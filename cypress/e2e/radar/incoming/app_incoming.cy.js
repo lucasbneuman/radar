@@ -1,4 +1,4 @@
-describe('Test App Radar' , () => {
+describe('Incoming Request - APP' , () => {
   //LOGIN
   beforeEach(() => {
     cy.loginApp()
